@@ -1,0 +1,16 @@
+{
+  "name": "function-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "functions-framework --target=showcount"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/functions-framework": "^1.4.0",
+    "mysql": "^2.17.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
